@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turne\\repos\\LINQ-Exercise\\LINQ\\LINQ.csproj": {}
+    "C:\\Users\\turne\\repos\\LINQ-Exercise 2\\LINQ\\LINQ Exercise 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turne\\repos\\LINQ-Exercise\\LINQ\\LINQ.csproj": {
+    "C:\\Users\\turne\\repos\\LINQ-Exercise 2\\LINQ\\LINQ Exercise 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turne\\repos\\LINQ-Exercise\\LINQ\\LINQ.csproj",
-        "projectName": "LINQ",
-        "projectPath": "C:\\Users\\turne\\repos\\LINQ-Exercise\\LINQ\\LINQ.csproj",
+        "projectUniqueName": "C:\\Users\\turne\\repos\\LINQ-Exercise 2\\LINQ\\LINQ Exercise 2.csproj",
+        "projectName": "LINQ Exercise 2",
+        "projectPath": "C:\\Users\\turne\\repos\\LINQ-Exercise 2\\LINQ\\LINQ Exercise 2.csproj",
         "packagesPath": "C:\\Users\\turne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turne\\repos\\LINQ-Exercise\\LINQ\\obj\\",
+        "outputPath": "C:\\Users\\turne\\repos\\LINQ-Exercise 2\\LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
